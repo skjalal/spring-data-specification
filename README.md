@@ -1,0 +1,2 @@
+[![Java CI with Maven](https://github.com/skjalal/spring-data-specification/actions/workflows/maven.yml/badge.svg?branch=main&kill_cache=1)](https://github.com/skjalal/spring-data-specification/actions/workflows/maven.yml)
+# Spring Data Specification
